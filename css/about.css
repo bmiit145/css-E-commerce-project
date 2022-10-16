@@ -1,0 +1,23 @@
+.banner {
+    background-color: black;
+    background-image: url(../image/about/bg-breadcrumb-1.jpg);
+    background-size: cover;
+    background-position-x:center ;
+    background-position-y:top ;
+    background-attachment: fixed;
+
+    color: var(--white);
+}
+
+
+.bg-img{
+    background-image: url(../image/about/img-about-3.jpg);
+}
+
+.widge-fea-container{
+    border: 1px solid var(--pipe-border-color);
+}
+.fea-box-icon{
+    font-size: 70px;
+    color: var(--red);
+}

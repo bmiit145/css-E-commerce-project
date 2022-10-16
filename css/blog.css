@@ -1,0 +1,42 @@
+.banner {
+    background-color: black;
+    background-image: url(../image/about/bg-breadcrumb-1.jpg);
+    background-size: cover;
+    background-position-x:center ;
+    background-position-y:top ;
+    background-attachment: fixed;
+
+    color: var(--white);
+}
+.content-head a{
+    color: var(--primary);
+}
+.content-head a:hover{
+    color: var(--red);
+}
+.search-form .squre_btn{
+    background-color: var(--primary);
+    color: var(--white);
+    transition: all 0.5s ease;
+}
+
+.search-form .squre_btn:hover{
+    background-color: var(--red);
+}
+
+.border-down{
+    border-bottom:1px solid var(--pipe-border-color) ;
+}
+
+.leftside-tag button{
+    border-radius: 0;
+    border: 1px solid var(--pipe-border-color);
+    color: var(--font-color);
+    transition: all 0.5s ease;
+}
+
+.leftside-tag button:hover{
+    color: white;
+    border-color: var(--red);
+    background-color: var(--red);
+}

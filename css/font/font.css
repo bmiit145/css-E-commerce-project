@@ -1,0 +1,17 @@
+@font-face {
+    font-family: jost-400;
+    src: url(../../font/Jost-Regular.ttf);
+}
+@font-face {
+    font-family: jost-500;
+    src: url(../../font/Jost-ExtraBold.ttf);
+}
+@font-face {
+    font-family: jost-med;
+    src: url(../../font/Jost-Medium.ttf);
+}
+/* regular but by mistesk */
+@font-face {
+    font-family: jost-semibold;
+    src: url(../../font/Jost-Regular.ttf);
+}

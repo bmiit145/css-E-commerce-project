@@ -1,0 +1,4 @@
+.contact_form form button:hover{
+    background-color: var(--red) !important;
+    border-color: var(--red);
+}
